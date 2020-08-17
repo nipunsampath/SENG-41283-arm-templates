@@ -1,0 +1,66 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_employee_main_name": {
+            "value": null
+        },
+        "Redis_employeewebapp_name": {
+            "value": null
+        },
+        "sites_handle_nic_upload_name": {
+            "value": null
+        },
+        "sites_employeeRepository_name": {
+            "value": null
+        },
+        "components_employee_main_name": {
+            "value": null
+        },
+        "servers_employee_app_db_name": {
+            "value": null
+        },
+        "vaults_employee_key_vault_name": {
+            "value": null
+        },
+        "frontdoors_employee_web_app_name": {
+            "value": null
+        },
+        "components_handle_nic_upload_name": {
+            "value": null
+        },
+        "components_employeeRepository_name": {
+            "value": null
+        },
+        "storageAccounts_employedataestorage_name": {
+            "value": null
+        },
+        "serverfarms_ASP_EmployeeWebApplication_aa07_name": {
+            "value": null
+        },
+        "serverfarms_ASP_EmployeeWebApplication_bbb8_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "frontdoorwebapplicationfirewallpolicies_employeeWAFPolicy_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___employee_main_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___handle_nic_upload_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___employeerepository_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___handle_file_upload_name": {
+            "value": null
+        },
+        "components_handle_file_upload_externalid": {
+            "value": null
+        }
+    }
+}
